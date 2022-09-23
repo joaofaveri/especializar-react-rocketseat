@@ -5,7 +5,7 @@
   background-color: #121214;
 }
 
-body {
+body, button, input {
   font-family: 'Poppins', sans-serif;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
